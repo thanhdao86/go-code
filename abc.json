@@ -1,0 +1,18 @@
+{
+    "customer_id": 2028819792,
+    "fpt_id": 2028819792,
+    "email": "kizer02@yopmail.com",
+    "phone": "0931222814",
+    "checkout_verified": true,
+    "email_verified": false,
+    "phone_verified": true,
+    "first_name": "Kizer",
+    "last_name": "Kul",
+    "avatar": "https://media3-stg.scdn.vn/images/apps/icon_user_default.png",
+    "birthday": 0,
+    "dob": 0,
+    "gender": 0,
+    "default_shipping": 16200351,
+    "created_at": 1604889564,
+    "updated_at": 1604889999
+}
